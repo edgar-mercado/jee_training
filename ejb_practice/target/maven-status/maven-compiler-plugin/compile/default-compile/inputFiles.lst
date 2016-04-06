@@ -1,1 +1,8 @@
-/Users/emercado/NetBeansProjects/ejb_practice/src/main/java/com/ecme/algorithms/AngryProfessor.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/servlets/TestServlet.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/sessionbeans/NewSessionBean.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/facade/PartsBeanFacade.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/entities/PartsEntity.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/facade/AbstractFacade.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/algorithms/AngryProfessor.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/sessionbeans/QuestionRemote.java
+/home/edgar/ejb3.1/jee_training/ejb_practice/src/main/java/com/ecme/sessionbeans/QuestionBean.java

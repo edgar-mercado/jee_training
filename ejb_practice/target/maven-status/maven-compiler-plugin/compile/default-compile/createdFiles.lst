@@ -1,1 +1,5 @@
+com/ecme/sessionbeans/QuestionBean.class
+com/ecme/sessionbeans/QuestionRemote.class
 com/ecme/algorithms/AngryProfessor.class
+com/ecme/servlets/TestServlet.class
+com/ecme/sessionbeans/NewSessionBean.class
